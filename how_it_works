@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>eAid</title>
+        <meta charset="utf-8" name="viewport" content="width=device-width, initial-scale=1" />
+        <link href="https://use.fontawesome.com/releases/v5.2.0/css/all.css" media="screen" rel="stylesheet" type="text/css" />
+        <link href="https://ajax.googleapis.com/ajax/libs/jqueryui/1.12.1/themes/base/jquery-ui.css" media="screen" rel="stylesheet" type="text/css" />
+        <link href="css/frame.css" media="screen" rel="stylesheet" type="text/css" />
+        <link href="css/controls.css" media="screen" rel="stylesheet" type="text/css" />
+        <link href="css/widgets.css" media="screen" rel="stylesheet" type="text/css" />
+        <link href="css/custom.css" media="screen" rel="stylesheet" type="text/css" />
+        <link href="https://fonts.googleapis.com/css?family=Open+Sans:400,700" rel="stylesheet" type="text/css" />
+        <link href="https://fonts.googleapis.com/css?family=Open+Sans+Condensed:300,700" rel="stylesheet" type="text/css" />
+        <link href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:400,700" rel="stylesheet" />
+        <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+        <script src="https://ajax.googleapis.com/ajax/libs/jqueryui/1.12.1/jquery-ui.min.js"></script>
+        <script src="js/menu.js"></script>
+        <script src="js/widgets.js"></script>
+        <script src="js/custom.js"></script>
+        <style>
+            .menu-widget {
+                color: rgb(255, 255, 255) !important;
+                opacity: 1 !important;
+                font-weight: 700 !important;
+            }
+        </style>
+    </head>
+
+    <body>
+        <div class="menu-container"></div>
+        <div class="content-container">
+            <div class="content">
+                      <div class="content-table flex-column">
+                    <div class="flex-row">
+                        <div class="flex-item flex-column">
+                            <p class="text">
+eAid is a mobile application that people who need to fundraise will use to post their stories and start a fundraiser. Application users who want to donate can tap on the story of whoever they want to help and
+then make the donation via Mobile Money.
+                            </p>
+                        </div>
+                </div>
+            <!-------------------------------------------------------------------------------------------->
+            <div class="flex-row">
+                <div class="flex-item flex-column">
+<h3>Sytem Requirements</h3>
+                    <p class="text">
+Users will need a mobile  android device such as smart phone to install the app.<br>
+To start a fundraiser, Users will have to create an account.<br>
+To donate, users will need a Uganda mobile money account.<br>
+                    </p>
+                </div>
+            </div>
+            <!-------------------------------------------------------------------------------------------->
+             <div class="flex-row">
+                <div class="flex-item flex-column">
+                        <h3>Start your own fundraiser</h3>
+                        <p class="text">
+                            In order to raise funds you need to install the eAid app on your smartphone and then create an account.<br />
+                            Set your fundraiser goal and also tell your story and add a picture about your story.
+                        </p>
+                </div>
+            </div>
+            <!-------------------------------------------------------------------------------------------->
+            <div class="flex-row">
+                <div class="flex-item flex-column">
+                    <h3>Reach out to Donors</h3>
+                    <p class="text">
+                        Keep your story going by sharing it's link to supporters, friends and colleagues through email, text messages and on social media platforms.
+                    </p>
+                </div>
+            </div>
+        </div>
+            </div>
+        <hr />
+        <footer style="text-align: center;">&copy; eAid 2022</footer>
+    </body>
+</html>
